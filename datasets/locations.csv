@@ -1,0 +1,16 @@
+source,destination,distance
+Delhi,Gurugram,30
+Delhi,Noida,20
+Delhi,Faridabad,25
+Delhi,Jaipur,280
+Delhi,Chennai,2200
+Delhi,Kolkata,1500
+Gurugram,Noida,35
+Gurugram,Faridabad,20
+Gurugram,Jaipur,270
+Noida,Faridabad,30
+Noida,Jaipur,290
+Faridabad,Jaipur,260
+Jaipur,Chennai,2000
+Jaipur,Kolkata,1500
+Chennai,Kolkata,1650

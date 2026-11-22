@@ -1,0 +1,7 @@
+parcel_id,destination,weight,priority,delivery_cost,status
+P102,Gurugram,3.0,Medium,80.0,Pending
+P103,Noida,1.0,High,60.0,Delivered
+P105,Jaipur,5.0,Medium,200.0,Pending
+P106,Delhi,2.0,Low,90.0,Pending
+P107,Chennai,2.0,High,250.0,Pending
+P104,Kolkata,3.0,Medium,400.0,Pending
